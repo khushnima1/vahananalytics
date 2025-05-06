@@ -1,0 +1,13 @@
+{
+  "name": "vahan-data-uploader",
+  "version": "1.0.0",
+  "description": "Upload Excel data to MongoDB",
+  "main": "upload_to_mongodb.js",
+  "scripts": {
+    "start": "node upload_to_mongodb.js"
+  },
+  "dependencies": {
+    "mongodb": "^5.0.0",
+    "xlsx": "^0.18.5"
+  }
+} 

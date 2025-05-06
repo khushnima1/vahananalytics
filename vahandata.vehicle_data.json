@@ -1,0 +1,1320 @@
+[{
+  "_id": {
+    "$oid": "6810b873f00f77877607ba9c"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "ADRIS ELECTRIC PVT LTD",
+  "monthly_data": {
+    "JAN": 3,
+    "FEB": 1,
+    "MAR": 1,
+    "APR": 4,
+    "MAY": 2,
+    "JUN": 1,
+    "JUL": 2,
+    "AUG": 1,
+    "SEP": 1,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607ba9d"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "AFTEK MOTORS INDIA PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 6,
+    "JUN": 8,
+    "JUL": 12,
+    "AUG": 1,
+    "SEP": 15,
+    "OCT": 0,
+    "NOV": 13,
+    "DEC": 7
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607ba9e"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "ALTIUS EV TECH PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 5,
+    "OCT": 22,
+    "NOV": 14,
+    "DEC": 14
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607ba9f"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "AMO MOBILITY SOLUTIONS PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 2,
+    "NOV": 2,
+    "DEC": 7
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baa0"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "AMPERE VEHICLES PRIVATE LIMITED",
+  "monthly_data": {
+    "JAN": 805,
+    "FEB": 814,
+    "MAR": 769,
+    "APR": 913,
+    "MAY": 664,
+    "JUN": 812,
+    "JUL": 600,
+    "AUG": 916,
+    "SEP": 636,
+    "OCT": 826,
+    "NOV": 1197,
+    "DEC": 166
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baa1"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "ATHER ENERGY PVT LTD",
+  "monthly_data": {
+    "JAN": 480,
+    "FEB": 648,
+    "MAR": 520,
+    "APR": 623,
+    "MAY": 909,
+    "JUN": 1156,
+    "JUL": 160,
+    "AUG": 1352,
+    "SEP": 1704,
+    "OCT": 2015,
+    "NOV": 2691,
+    "DEC": 2248
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baa2"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "AYAAN ELECTRONIC PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 10,
+    "DEC": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baa3"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "BAJAJ AUTO LTD",
+  "monthly_data": {
+    "JAN": 138,
+    "FEB": 161,
+    "MAR": 139,
+    "APR": 213,
+    "MAY": 230,
+    "JUN": 206,
+    "JUL": 197,
+    "AUG": 202,
+    "SEP": 182,
+    "OCT": 204,
+    "NOV": 138,
+    "DEC": 85
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baa4"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "BATTRE ELECTRIC MOBLITY PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 13,
+    "DEC": 19
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baa5"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "BENLING INDIA ENERGY AND TECHNOLOGY PVT LTD",
+  "monthly_data": {
+    "JAN": 75,
+    "FEB": 126,
+    "MAR": 195,
+    "APR": 102,
+    "MAY": 54,
+    "JUN": 71,
+    "JUL": 70,
+    "AUG": 83,
+    "SEP": 75,
+    "OCT": 113,
+    "NOV": 107,
+    "DEC": 121
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baa6"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "BGAUSS AUTO PRIVATE LIMITED",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 21,
+    "SEP": 24,
+    "OCT": 39,
+    "NOV": 39,
+    "DEC": 50
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baa7"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "BLIX CYCLES AND E-VEHICLES PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 5,
+    "MAY": 1,
+    "JUN": 2,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baa8"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "BOOMA INNOVATIVE TRANSPORT SULUTIONS PVT LTD",
+  "monthly_data": {
+    "JAN": 2,
+    "FEB": 239,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 224,
+    "AUG": 0,
+    "SEP": 5,
+    "OCT": 1,
+    "NOV": 0,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baa9"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "BOUNCE ELECTRIC 1 PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 525,
+    "JUL": 320,
+    "AUG": 268,
+    "SEP": 201,
+    "OCT": 210,
+    "NOV": 193,
+    "DEC": 125
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baaa"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "CHANDANA CORPORATION",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 11,
+    "NOV": 8,
+    "DEC": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baab"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "DAO EVTECH PRIVATE LIMITED",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 3,
+    "NOV": 0,
+    "DEC": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baac"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "ECO FUEL SYSTEMS (I) PVT LTD",
+  "monthly_data": {
+    "JAN": 6,
+    "FEB": 6,
+    "MAR": 17,
+    "APR": 17,
+    "MAY": 21,
+    "JUN": 20,
+    "JUL": 18,
+    "AUG": 10,
+    "SEP": 8,
+    "OCT": 14,
+    "NOV": 14,
+    "DEC": 6
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baad"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "ELECTRECA VEHICLES",
+  "monthly_data": {
+    "JAN": 1,
+    "FEB": 3,
+    "MAR": 0,
+    "APR": 2,
+    "MAY": 1,
+    "JUN": 3,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baae"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "ELTHOR ENERGY PRIVATE LIMITED",
+  "monthly_data": {
+    "JAN": 15,
+    "FEB": 36,
+    "MAR": 53,
+    "APR": 66,
+    "MAY": 34,
+    "JUN": 16,
+    "JUL": 19,
+    "AUG": 7,
+    "SEP": 14,
+    "OCT": 4,
+    "NOV": 7,
+    "DEC": 13
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baaf"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "EVTRIC MOTORS PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 1,
+    "SEP": 2,
+    "OCT": 12,
+    "NOV": 4,
+    "DEC": 8
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bab0"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "EXERVAL PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 4,
+    "JUN": 10,
+    "JUL": 3,
+    "AUG": 10,
+    "SEP": 4,
+    "OCT": 2,
+    "NOV": 1,
+    "DEC": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bab1"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "FIADO INDUSTRIES PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bab2"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "GO GREEN EOT (ENERGY OF THINGS) PVT LTD",
+  "monthly_data": {
+    "JAN": 2,
+    "FEB": 3,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 1,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 1,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bab3"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "GOREEN E-MOBILITY PVT LTD",
+  "monthly_data": {
+    "JAN": 216,
+    "FEB": 209,
+    "MAR": 295,
+    "APR": 244,
+    "MAY": 239,
+    "JUN": 209,
+    "JUL": 201,
+    "AUG": 163,
+    "SEP": 157,
+    "OCT": 97,
+    "NOV": 114,
+    "DEC": 101
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bab4"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "GREAVES ELECTRIC MOBILITY PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 11,
+    "NOV": 21,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bab5"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "HERO ELECTRIC VEHICLE PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 1,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bab6"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "HERO ELECTRIC VEHICLES PVT. LTD",
+  "monthly_data": {
+    "JAN": 646,
+    "FEB": 530,
+    "MAR": 1264,
+    "APR": 274,
+    "MAY": 99,
+    "JUN": 389,
+    "JUL": 577,
+    "AUG": 1262,
+    "SEP": 936,
+    "OCT": 1014,
+    "NOV": 517,
+    "DEC": 540
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bab7"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "HERO MOTOCORP LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 26,
+    "DEC": 118
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bab8"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "HONDA MOTORCYCLE AND SCOOTER INDIA (P) LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 30,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bab9"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "HONGKONG YIXING (IMPORTER: ADMS MARKETING)",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 1,
+    "AUG": 0,
+    "SEP": 1,
+    "OCT": 1,
+    "NOV": 0,
+    "DEC": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baba"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "IRA EDUTECH PVT LTD",
+  "monthly_data": {
+    "JAN": 6,
+    "FEB": 4,
+    "MAR": 18,
+    "APR": 12,
+    "MAY": 11,
+    "JUN": 12,
+    "JUL": 7,
+    "AUG": 6,
+    "SEP": 1,
+    "OCT": 6,
+    "NOV": 5,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607babb"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "IVOOMI INNOVATION PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 1,
+    "OCT": 2,
+    "NOV": 5,
+    "DEC": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607babc"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "JIANGSU XINRI E-VEHICLE(IMPORTER SWIFT CUR.TECH.)",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607babd"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "JIANGSU XINRI (IMPORTER: NISIKI TECHNOLOGIES)",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 1,
+    "MAY": 1,
+    "JUN": 5,
+    "JUL": 1,
+    "AUG": 0,
+    "SEP": 1,
+    "OCT": 3,
+    "NOV": 0,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607babe"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "JIANGSU ZHEENAIDA (IMPORTER: KLB GLOBAL)",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 2,
+    "NOV": 1,
+    "DEC": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607babf"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "JITENDRA NEW EV-TECH PVT. LTD",
+  "monthly_data": {
+    "JAN": 37,
+    "FEB": 9,
+    "MAR": 30,
+    "APR": 68,
+    "MAY": 54,
+    "JUN": 18,
+    "JUL": 9,
+    "AUG": 15,
+    "SEP": 129,
+    "OCT": 129,
+    "NOV": 8,
+    "DEC": 84
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bac0"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "JUNENG MOTORCYCLE (IMPORTER: ADMS MARKETING)",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 2,
+    "DEC": 5
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bac1"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "KINETIC GREEN ENERGY & POWER SOLUTIONS LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 3,
+    "SEP": 16,
+    "OCT": 48,
+    "NOV": 47,
+    "DEC": 145
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bac2"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "KLB KOMAKI PVT LTD",
+  "monthly_data": {
+    "JAN": 35,
+    "FEB": 39,
+    "MAR": 52,
+    "APR": 42,
+    "MAY": 49,
+    "JUN": 43,
+    "JUL": 52,
+    "AUG": 30,
+    "SEP": 17,
+    "OCT": 20,
+    "NOV": 17,
+    "DEC": 19
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bac3"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "LECTRIX EV PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 580,
+    "MAY": 300,
+    "JUN": 418,
+    "JUL": 390,
+    "AUG": 1,
+    "SEP": 1,
+    "OCT": 15,
+    "NOV": 24,
+    "DEC": 34
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bac4"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "M2GO ELECTRIC VEHICLE PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 1,
+    "APR": 0,
+    "MAY": 2,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bac5"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "MAA LUXMI E-VEHICLES PVT. LTD.",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 7,
+    "AUG": 3,
+    "SEP": 6,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bac6"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "MARUTHISAN PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 3,
+    "MAR": 4,
+    "APR": 1,
+    "MAY": 5,
+    "JUN": 14,
+    "JUL": 8,
+    "AUG": 7,
+    "SEP": 6,
+    "OCT": 6,
+    "NOV": 6,
+    "DEC": 17
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bac7"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "MEW ELECTRICALS LIMITED",
+  "monthly_data": {
+    "JAN": 28,
+    "FEB": 42,
+    "MAR": 65,
+    "APR": 68,
+    "MAY": 39,
+    "JUN": 45,
+    "JUL": 24,
+    "AUG": 34,
+    "SEP": 31,
+    "OCT": 17,
+    "NOV": 16,
+    "DEC": 4
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bac8"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "NDS ECO MOTORS PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 5,
+    "MAR": 4,
+    "APR": 0,
+    "MAY": 1,
+    "JUN": 1,
+    "JUL": 3,
+    "AUG": 5,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bac9"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "NISIKI TECHNOLOGIES PVT LTD",
+  "monthly_data": {
+    "JAN": 4,
+    "FEB": 2,
+    "MAR": 25,
+    "APR": 18,
+    "MAY": 21,
+    "JUN": 26,
+    "JUL": 16,
+    "AUG": 12,
+    "SEP": 10,
+    "OCT": 7,
+    "NOV": 7,
+    "DEC": 14
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607baca"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "NUMEROS MOTORS PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 3,
+    "APR": 2,
+    "MAY": 20,
+    "JUN": 58,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 101,
+    "OCT": 25,
+    "NOV": 0,
+    "DEC": 50
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bacb"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "ODYSSE ELECTRIC VEHICLES PVT LTD",
+  "monthly_data": {
+    "JAN": 7,
+    "FEB": 6,
+    "MAR": 8,
+    "APR": 7,
+    "MAY": 5,
+    "JUN": 5,
+    "JUL": 1,
+    "AUG": 7,
+    "SEP": 5,
+    "OCT": 6,
+    "NOV": 4,
+    "DEC": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bacc"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "OKAYA EV PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 1,
+    "JUN": 30,
+    "JUL": 38,
+    "AUG": 22,
+    "SEP": 29,
+    "OCT": 58,
+    "NOV": 43,
+    "DEC": 34
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bacd"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "OKINAWA AUTOTECH PVT LTD",
+  "monthly_data": {
+    "JAN": 775,
+    "FEB": 950,
+    "MAR": 1001,
+    "APR": 1522,
+    "MAY": 1223,
+    "JUN": 995,
+    "JUL": 893,
+    "AUG": 763,
+    "SEP": 799,
+    "OCT": 1201,
+    "NOV": 914,
+    "DEC": 540
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bace"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "OLA ELECTRIC TECHNOLOGIES PVT LTD",
+  "monthly_data": {
+    "JAN": 282,
+    "FEB": 733,
+    "MAR": 1621,
+    "APR": 2864,
+    "MAY": 1255,
+    "JUN": 729,
+    "JUL": 467,
+    "AUG": 485,
+    "SEP": 1443,
+    "OCT": 2109,
+    "NOV": 1700,
+    "DEC": 1949
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bacf"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "PUR ENERGY PVT LTD",
+  "monthly_data": {
+    "JAN": 344,
+    "FEB": 322,
+    "MAR": 424,
+    "APR": 376,
+    "MAY": 318,
+    "JUN": 261,
+    "JUL": 181,
+    "AUG": 180,
+    "SEP": 157,
+    "OCT": 198,
+    "NOV": 118,
+    "DEC": 127
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bad0"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "REVOLT INTELLICORP PVT LTD",
+  "monthly_data": {
+    "JAN": 47,
+    "FEB": 109,
+    "MAR": 85,
+    "APR": 77,
+    "MAY": 109,
+    "JUN": 154,
+    "JUL": 112,
+    "AUG": 123,
+    "SEP": 42,
+    "OCT": 47,
+    "NOV": 30,
+    "DEC": 3
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bad1"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "RGM BUSINESS PLUS PVT LTD",
+  "monthly_data": {
+    "JAN": 26,
+    "FEB": 30,
+    "MAR": 22,
+    "APR": 17,
+    "MAY": 18,
+    "JUN": 21,
+    "JUL": 20,
+    "AUG": 16,
+    "SEP": 8,
+    "OCT": 8,
+    "NOV": 8,
+    "DEC": 8
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bad2"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "ROWWET MOBILITY PVT LTD",
+  "monthly_data": {
+    "JAN": 8,
+    "FEB": 10,
+    "MAR": 3,
+    "APR": 1,
+    "MAY": 2,
+    "JUN": 6,
+    "JUL": 0,
+    "AUG": 1,
+    "SEP": 5,
+    "OCT": 0,
+    "NOV": 3,
+    "DEC": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bad3"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "SRIVARU MOTORS PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 1,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bad4"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "TORK MOTORS PVT LTD",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 1,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bad5"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "TVS MOTOR COMPANY LTD",
+  "monthly_data": {
+    "JAN": 385,
+    "FEB": 550,
+    "MAR": 635,
+    "APR": 696,
+    "MAY": 245,
+    "JUN": 528,
+    "JUL": 1049,
+    "AUG": 1461,
+    "SEP": 830,
+    "OCT": 1193,
+    "NOV": 1759,
+    "DEC": 1047
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bad6"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "WARDWIZARD INNOVATIONS & MOBILITY LIMITED",
+  "monthly_data": {
+    "JAN": 0,
+    "FEB": 0,
+    "MAR": 0,
+    "APR": 0,
+    "MAY": 0,
+    "JUN": 0,
+    "JUL": 0,
+    "AUG": 0,
+    "SEP": 0,
+    "OCT": 0,
+    "NOV": 0,
+    "DEC": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6810b873f00f77877607bad7"
+  },
+  "year": "2022",
+  "state": "Karnataka",
+  "maker_name": "WHITE CARBON MOTORS PVT LTD",
+  "monthly_data": {
+    "JAN": 14,
+    "FEB": 3,
+    "MAR": 3,
+    "APR": 1,
+    "MAY": 2,
+    "JUN": 2,
+    "JUL": 3,
+    "AUG": 3,
+    "SEP": 5,
+    "OCT": 3,
+    "NOV": 1,
+    "DEC": 3
+  }
+}]
